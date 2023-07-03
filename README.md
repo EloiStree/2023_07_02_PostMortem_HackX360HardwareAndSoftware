@@ -35,11 +35,17 @@ It also allows me to work a bit on the serial port connection that I stopped to 
 
 ## Related Git
 
+
+
 When I started to work on the topic I was writing down what I learn to prepare a future workshop:
 - https://github.com/EloiStree/2023_06_23_ArduinoToDroneAndXboxHardware
 - Find some of my road note here:
   - https://github.com/EloiStree/2023_06_23_ArduinoToDroneAndXboxHardware/blob/main/FullNote.md
 
+- 2022_01_24_XOMI
+  - The UDP to X360 simulation I started last year and rework two weeks ago.
+  - https://github.com/EloiStree/2022_01_24_XOMI
+  - 
 - 2023_06_21_ArduinoToX360 
   - This code allows to simulate wiht UART connection an X360 controller.
   - https://github.com/EloiStree/2023_06_21_ArduinoToX360
